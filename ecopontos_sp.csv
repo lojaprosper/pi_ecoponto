@@ -1,0 +1,127 @@
+﻿ecoponto,subprefeitura,endereco,bairro,cep,recebe_gesso,status
+Viaduto Engenheiro Alberto Badra,Aricanduva / Formosa / Carrão,"Avenida Aricanduva, nº 200 - Praça Lúcia Mekhitarian (baixo do Viaduto Engenheiro Alberto Badra)",Aricanduva,03501-010,SIM,EM_OPERACAO
+Astarte,Aricanduva / Formosa / Carrão,"Rua Astarte, nº 500",Vila Carrão,03446-090,SIM,EM_OPERACAO
+Nova York,Aricanduva / Formosa / Carrão,"Rua Amélia Vanso Magnoli, nº 480",Conjunto Habitacional Barreira Grande,03907-010,NÃO,EM_OPERACAO
+Aricanduva,Aricanduva / Formosa / Carrão,"Rua Professor Alzira de Oliveira Gilioli, nº 400",Jardim Nice,03905-090,SIM,EM_OPERACAO
+Jardim Maria do Carmo,Butantã,"Rua Caminho do Engenho, nº 800",Ferreira,05524-000,NÃO,EM_OPERACAO
+Jardim Jaqueline,Butantã,"Parque Raposo Tavares - Rua Walter Brito Belletti, s/nº",Vila Albano,05543-040,SIM,EM_OPERACAO
+Politécnica,Butantã,"Rua Paulino Baptista Conti, nº 2",Jardim Sarah,05382-140,NÃO,EM_OPERACAO
+Giovani Gronchi,Butantã,"Avenida Giovani Gronchi, nº 3413",Morumbi,05651-002,NÃO,EM_OPERACAO
+Santo Dias,Campo Limpo,"Travessa Rosifloras, nº 301",Conjunto Habitacional Instituto Adventista,05868-600,NÃO,EM_OPERACAO
+Parque Fernanda,Campo Limpo,"Avenida Doutor Salvador Rocco, nº 261, defronte Rua Antônio Cânon",Parque Fernanda,05888-050,NÃO,EM_OPERACAO
+Olinda,Campo Limpo,"Rua Nelson Brissac, nº 1235, esquina com Avenida Padre Adolfo Kolping",Parque Regina,05773-110,NÃO,EM_OPERACAO
+Vila das Belezas,Campo Limpo,"Rua Campo Novo do Sul, nº 500",Vila Andrade,05729-100,SIM,EM_OPERACAO
+Paraisópolis,Campo Limpo,"Rua Irapará, nº 73",Paraíso do Morumbi,05706-300,NÃO,EM_OPERACAO
+Cidade Saudável,Capela do Socorro,"Rua Ptolomeu, nº 869",Vila Socorro,04762-040,SIM,EM_OPERACAO
+Parque Peruche,Casa Verde / Limão / Cachoeirinha,"Avenida Engenheiro Caetano Álvares, nº 3142",Parque Peruche,02535-008,NÃO,EM_OPERACAO
+Vila Nova Cachoeirinha,Casa Verde / Limão / Cachoeirinha,"Rua Felix Alves Pereira, nº 113",Jardim Centenário,02882-030,NÃO,EM_OPERACAO
+Vila Santa Maria,Casa Verde / Limão / Cachoeirinha,Rua André Bolsena com a Travessa Luiz Sá,Vila Santista,02560-170,NÃO,EM_OPERACAO
+Jardim Antártica,Casa Verde / Limão / Cachoeirinha,"Rua Dom Aquino, nº 103",Jardim Antártica,02652-170,NÃO,EM_OPERACAO
+São Leandro,Casa Verde / Limão / Cachoeirinha,"Rua São Leandro, nº 13",Vila Palmeiras,02725-010,NÃO,EM_OPERACAO
+Alvarenga,Cidade Ademar,"Estrada do Alvarenga, nº 2475",Balneário Mar Paulista,04467-000,NÃO,EM_OPERACAO
+Cupecê,Cidade Ademar,"Rua Anália Maria de Jesus, nº 130 - Trav. Av. Cupecê",Jardim Itacolomi,04385-110,NÃO,EM_OPERACAO
+Nascer do Sol,Cidade Tiradentes,"Rua Nascer do Sol, nº 356",Conjunto Habitacional Santa Etelvina II,08485-020,NÃO,EM_OPERACAO
+Setor G,Cidade Tiradentes,"Rua Alfonso Asturaro, altura do nº 600",Conjunto Habitacional Barro Branco II,08473-591,NÃO,EM_OPERACAO
+Inácio Monteiro,Cidade Tiradentes,"Rua Regresso Feliz, nº 1190",Conjunto Habitacional Inácio Monteiro,08472-210,SIM,EM_OPERACAO
+Jardim São Nicolau,Ermelino Matarazzo,"Rua Agreste de Itabaiana, nº 590, esquina com a Rua Eduardo Kyioshi Shimuta",Vila União (Zona Leste),03683-000,NÃO,EM_OPERACAO
+Boturussu,Ermelino Matarazzo,"Rua Nélio Batista Guimarães, nº 183",Parque Boturussu,03802-005,NÃO,EM_OPERACAO
+Bandeirantes,Freguesia do Ó / Brasilândia,"Rua Itaiquara, nº 237",Itaberaba,02803-050,NÃO,EM_OPERACAO
+Freguesia do Ó,Freguesia do Ó / Brasilândia,"Rua Sousa Filho, nº 690",Vila União (Zona Norte),02911-135,NÃO,EM_OPERACAO
+Vila Rica,Freguesia do Ó / Brasilândia,"Rua Jorge Mamede da Silva, nº 200",Vila Souza,02860-050,NÃO,EM_OPERACAO
+Jardim São Paulo,Guaianases,"Rua Utaro Kanai, nº 374",Conjunto Habitacional Juscelino Kubitschek,08465-000,NÃO,EM_OPERACAO
+Guaiaponto,Guaianases,"Rua da Passagem Funda, nº 250",Vila Santa Cruz (Zona Leste),08411-010,SIM,EM_OPERACAO
+Lajeado,Guaianases,"Rua Isabela, nº 405",Jardim Lajeado,08411-010,NÃO,EM_OPERACAO
+Padre Nildo do Amaral,Guaianases,"Rua Padre Nildo do Amaral Júnior, nº 900",Vila Nova Curuçá,08032-650,NÃO,EM_OPERACAO
+Tereza Cristina,Ipiranga,"Rua Tereza Cristina, nº 10, esquina com Avenida do Estado",Vila Monumento,01553-000,SIM,EM_OPERACAO
+Santa Cruz,Ipiranga,"Rua Santa Cruz, nº 1452 (Baixo do Viaduto Santa Cruz)",Vila Mariana,04122-000,NÃO,EM_OPERACAO
+Vila das Mercês,Ipiranga,"Rua Italva, nº 86",Saúde,04294-030,NÃO,EM_OPERACAO
+Comandante Taylor,Ipiranga,"Rua Comandante Taylor, nº 690 (Baixo do Viaduto Comandante Taylor)",Ipiranga,04218-000,NÃO,EM_OPERACAO
+Moreira,Itaim Paulista,"Rua João Batista de Godói, nº 1164",Jardim das Oliveiras,08111-430,NÃO,EM_OPERACAO
+Mãe Preta,Itaim Paulista,"Avenida Dama Entre Verdes, nº 21",Vila Curuçá,08030-610,SIM,EM_OPERACAO
+Pesqueiro,Itaim Paulista,"Rua Caiuás, nº 18, esquina com a Avenida Itamerendiba",Jardim Ida Guedes,08120-580,SIM,EM_OPERACAO
+Flamingo,Itaim Paulista,"Rua Alexandre Dias Nogueira, nº 353",Vila Nova Curuçá,08031-240,NÃO,EM_OPERACAO
+Itaim Paulista,Itaim Paulista,"Rua Barão de Almeida Galeão, altura do nº 61",Itaim Paulista,08575-210,NÃO,EM_OPERACAO
+Jardim Indaiá,Itaim Paulista,"Rua Rossini Pinto, altura do nº 214",Jardim Indaiá,08143-030,NÃO,EM_OPERACAO
+Parque Guarani,Itaquera,"Rua Manuel Alves da Rocha, nº 584",Parque Guarani,08235-620,NÃO,EM_OPERACAO
+Oswaldo Valle Cordeiro,Itaquera,"Av. Osvaldo Valle Cordeiro, nº 405",Jardim Brasília (Zona Leste),03584-000,SIM,EM_OPERACAO
+Cidade Lider,Itaquera,"Rua Charles Manguin, nº 20",Jardim Marília,03579-150,NÃO,EM_OPERACAO
+Parque do Carmo,Itaquera,"Rua Machado Nunes, nº 95",Jardim Nossa Senhora do Carmo,08275-310,NÃO,EM_OPERACAO
+Corinthians,Itaquera,"Rua Ana Perena, nº 155",Conjunto Residencial José Bonifácio,08253-230,SIM,EM_OPERACAO
+Caldeirão,Itaquera,"Rua Major Vitorino de Souza Rocha, altura do nº 148",Vila Santa Teresinha,08247-080,NÃO,EM_OPERACAO
+Imigrantes,Jabaquara,Rua Opixe,Vila Guarani (Zona Sul),04312-080,SIM,EM_OPERACAO
+Jabaquara,Jabaquara,"Rua Jupatis, nº 140",Vila Mira,04377-200,SIM,EM_OPERACAO
+Anselmo Machado,Jaçanã / Tremembé,"Avenida Paulo Lincoln do Valle Pontin, altura do nº 550",Jaçanã,02273-011,NÃO,EM_OPERACAO
+Silvio Bittencourt,Jaçanã / Tremembé,"Rua Maria Amália Lopes Azevedo, nº 4008",Vila Albertina,02350-003,NÃO,EM_OPERACAO
+Viaduto Antártica,Lapa,Rua Robert Bosch (Baixos Viaduto Antártica),Parque Industrial Tomas Edson,01141-010,NÃO,EM_OPERACAO
+Vila Jaguara,Lapa,"Rua Agrestina, nº 189",Vila Jaguara,05117-100,NÃO,EM_OPERACAO
+Piraporinha,M'Boi Mirim,"Rua João de Abreu, nº 326",Jardim Tupã,04904-000,SIM,EM_OPERACAO
+São Luis,M'Boi Mirim,"Rua Pedro Armani, nº 252",Jardim Letícia,05820-220,NÃO,EM_OPERACAO
+Bresser,Mooca,"Praça Giuseppe Cesari, nº 54 (Baixo do Viaduto Bresser)",Brás,03053-000,SIM,EM_OPERACAO
+Tatuapé,Mooca,"Avenida Salim Farah Maluf, nº 179, Praça Tito Lívio Ferreira (Central de Triagem)",Tatuapé,03076-000,SIM,EM_OPERACAO
+Brás,Mooca,"Avenida Presidente Wilson, nº 1 (Baixo Viaduto Professor Alberto Mesquita de Carvalho)",Mooca,03107-000,NÃO,EM_OPERACAO
+Mooca,Mooca,"Avenida Pires do Rio, nº 600 (Baixo Viaduto Bresser)",Belenzinho,03163-010,NÃO,EM_OPERACAO
+Pari,Mooca,"Avenida Carlos de Campos, nº 996 (defronte), esquina com Avenida Presidente Castelo Branco",Pari,03028-001,NÃO,EM_OPERACAO
+Belém,Mooca,"Rua Belarmino Matos, nº 26 (baixos do Viaduto Guadalajara)",Belenzinho,03062-030,NÃO,EM_OPERACAO
+Vila Luisa,Mooca,"Praça Dante Maron, nº 92 (Baixos Viaduto Engenheiro Alberto Badra)",Guaiúna,03631-230,SIM,EM_OPERACAO
+Água Rasa,Mooca,"Av. Salim Farah Maluf, nº 1500",Quarta Parada,03304-090,SIM,EM_OPERACAO
+Mendes Caldeira,Mooca,"Rua Monsenhor Andrade, nº 865",Brás,03008-000,NÃO,EM_OPERACAO
+Mooca ll,Mooca,"Rua Pantojo, nº 1.147",Vila Regente Feijó,03343-000,NÃO,EM_OPERACAO
+Condessa,Mooca,"Avenida Condessa Elizabeth de Robiano, altura do nº 930",Parque São Jorge,,SIM,EM_OPERACAO
+Penha I,Penha,"Rua Doutor Heládio, nº 104",Vila Esperança,03650-020,NÃO,EM_OPERACAO
+Tiquatira,Penha,"Rua Amorim Diniz, nº 415",Jardim Jaú (Zona Leste),03730-040,NÃO,EM_OPERACAO
+Gamelinha,Penha,"Rua Morfeu, nº 25, esquina com Avenida Edgar dos Santos",Jardim Santo Antônio,03554-000,NÃO,EM_OPERACAO
+Vila Matilde,Penha,"Rua Mateus de Siqueira, nº 375, com Praça Leonildes Ramos Saigo",Jardim Triana,03554-000,NÃO,EM_OPERACAO
+Cangaíba,Penha,"Rua Luciano Nogueira, altura do nº 241",Cangaíba,03721-080,NÃO,EM_OPERACAO
+Franquinho,Penha,"Rua Praia de Mucuripe, nº 685",Jardim Artur Alvim,03687-100,NÃO,EM_OPERACAO
+Dalila,Penha,"Rua Inácio da Costa, nº 740, esquina com a Avenida Aricanduva",Vila Dalila,03520-030,NÃO,EM_OPERACAO
+COHAB Artur Alvim,Penha,"Avenida Padre Estanislau de Campos, nº 56",Conjunto Habitacional Padre Manoel da Nóbrega,03590-060,NÃO,EM_OPERACAO
+Vila Talarico,Penha,"Avenida Bernardino Brito Fonseca de Carvalho, nº 1.050",Vila Talarico,03535-000,NÃO,EM_OPERACAO
+Recanto dos Humildes,Perus,"Rua Sales Gomes, nº 415",Vila Perus,05211-200,NÃO,EM_OPERACAO
+Jardim Santa Fé,Perus,"Rua Salvador Albano, nº 156",Jardim Santa Fé (Zona Oeste),05271-090,NÃO,EM_OPERACAO
+Pinheiros,Pinheiros,"Praça do Cancioneiro, nº 15 (Baixos da Ponte Engenheiro Ary Torres)",Cidade Monções,04571-200,SIM,EM_OPERACAO
+Vila Madalena,Pinheiros,"Rua Girassol, nº 15, esquina Rua Luís Murat",Vila Madalena,05433-000,NÃO,EM_OPERACAO
+Alto de Pinheiros,Pinheiros,Praça Arcipreste Anselmo de Oliveira,Alto de Pinheiros,05463-080,NÃO,EM_OPERACAO
+Cônego José Salomon,Pirituba / Jaraguá,"Avenida Cônego José Salomon, nº 861",Vila Portugal,02918-170,SIM,EM_OPERACAO
+Vigário Godói,Pirituba / Jaraguá,"Rua Vigário Godói, nº 480",Vila Zat,02976-080,SIM,EM_OPERACAO
+Voith,Pirituba / Jaraguá,"Avenida Atílio Brugnoli, nº 489",Parque Nações Unidas,02996-010,NÃO,EM_OPERACAO
+Alexios Jafet,Pirituba / Jaraguá,"Rua Alexios Jafet, nº 233",Jardim Ipanema (Zona Oeste),05187-010,NÃO,EM_OPERACAO
+Tucuruvi,Santana / Tucuruvi,"Rua Eduardo Vicente Nasser, nº 519",Barro Branco (Zona Norte),02344-050,NÃO,EM_OPERACAO
+Santana,Santana / Tucuruvi,"Avenida Zaki Narchi, nº 375",Carandiru,02029-000,NÃO,EM_OPERACAO
+Alceu Maynard de Araújo,Santo Amaro,"Avenida Professor Alceu Maynard de Araújo, nº 330 - ao lado da Central de Triagem",Vila Cruzeiro,04728-110,NÃO,EM_OPERACAO
+Vicente Rao,Santo Amaro,"Avenida Vicente Rao, nº 308 sentido Diadema (Baixo do Viaduto José Diniz)",Jardim Petrópolis,04636-000,SIM,EM_OPERACAO
+Pedro Bueno,Santo Amaro,"Rua João de Lery, altura do nº 503",Parque Jabaquara,04356-030,SIM,EM_OPERACAO
+Vitor Manzini,Santo Amaro,"Praça Dom Francisco de Sousa, nº 635",Santo Amaro,04745-050,SIM,EM_OPERACAO
+Cipoaba,São Mateus,"Rua Padre Luis de Siqueira, nº 947, com Avenida Rodolfo Pirani",Jardim Rodolfo Pirani,08310-260,NÃO,EM_OPERACAO
+Iguatemi,São Mateus,"Rua Francisco de Melo Palheta, nº 1548",Parque Boa Esperança,08341-235,NÃO,EM_OPERACAO
+Montalvania,São Mateus,"Rua Montalvania, nº 195",Jardim São Cristóvão,03930-095,SIM,EM_OPERACAO
+Lima Bonfante,São Mateus,"Rua Capitão-mor Lázaro da Costa, nº 251",Jardim São Francisco,08390-260,NÃO,EM_OPERACAO
+Imperador,São Miguel Paulista,"Avenida Ribeirão Jacu, nº 201 (Baixo do Viaduto Jacu Pêssego)",Jardim das Camélias,08050-420,NÃO,EM_OPERACAO
+Carlito Maia,São Miguel Paulista,"Rua Domingos Fernandes Nobre, nº 109",Vila Itaim,08190-300,NÃO,EM_OPERACAO
+Pedro Nunes,São Miguel Paulista,"Rua da Polka, nº 100",Jardim Pedro José Nunes,08061-540,NÃO,EM_OPERACAO
+Itaqueruna,São Miguel Paulista,"Rua Domitila d'Abril, nº 88",Cidade Nova São Miguel,08042-550,SIM,EM_OPERACAO
+Varre Vila,São Miguel Paulista,"Rua Primeiro de Maio, defronte nº 106",União de Vila Nova,08072-050,NÃO,EM_OPERACAO
+Vitória Popular,São Miguel Paulista,"Rua El Rey, nº 508",Jardim São Carlos (Zona Leste),08062-520,NÃO,EM_OPERACAO
+Jardim Helena,São Miguel Paulista,"Rua Cosme dos Santos, nº 110",Jardim Helena,08090-753,SIM,EM_OPERACAO
+Jardim Romano,São Miguel Paulista,"Rua Duarte Martins Mourão, nº 400",Jardim Santa Margarida,08191-250,NÃO,EM_OPERACAO
+Jardim Lapena,São Miguel Paulista,"Rua Rafael Zimbard, altura do nº 78",Jardim Nair,08071-130,SIM,EM_OPERACAO
+Sapopemba,Sapopemba,"Rua Francesco Usper, nº 550",Conjunto Habitacional Teotonio Vilela,03928-235,NÃO,EM_OPERACAO
+Vila Cardoso Franco,Sapopemba,"Rua dos Vorás, nº 25",Conjunto Residencial Sitio Oratório,03978-310,NÃO,EM_OPERACAO
+Reynaldo José,Sapopemba,"Rua Silvestro Silvestre, nº 400",Jardim Ângela (Zona Leste),03985-000,NÃO,EM_OPERACAO
+Joaquim Catuna,Sapopemba,"Rua Luca Conforti, nº 210",Fazenda da Juta,03977-417,NÃO,EM_OPERACAO
+Glicério,Sé,"Praça Ministro Francisco Sá Carneiro, nº 6 (Baixos do Viaduto Glicério, acesso pela Avenida do Estado, 4434)",Liberdade,01517-100,SIM,EM_OPERACAO
+Liberdade,Sé,"Rua Jaceguai, nº 67, esquina com a Avenida Liberdade",Bela Vista,01315-010,NÃO,EM_OPERACAO
+Armênia,Sé,"Rua General Carmona, nº 156",Luz,01102-030,NÃO,EM_OPERACAO
+Barra Funda,Sé,"Rua Cônego Vicente Miguel Marino, nº 76 (Baixos Viaduto Engenheiro Orlando Murgel)",,,NÃO,EM_OPERACAO
+Cambuci,Sé,"Avenida Dom Pedro I, nº 38",Vila Monumento,01552-001,SIM,EM_OPERACAO
+General Flores,Sé,"Rua General Flores, nº 10",Bom Retiro,01129-010,NÃO,FORA_DE_OPERACAO
+Bela Vista,Sé,"Rua Quatorze de Julho, nº 59",Bela Vista,01324-040,SIM,EM_OPERACAO
+Vila Guilherme,Vila Maria / Vila Guilherme,"Rua José Bernardo Pinto, nº 1480",Vila Guilherme,02055-001,SIM,EM_OPERACAO
+Vila Sabrina,Vila Maria / Vila Guilherme,"Avenida do Poeta, nº 931",Jardim Julieta,02161-160,NÃO,EM_OPERACAO
+Vila Maria,Vila Maria / Vila Guilherme,"Rua Curuçá, nº 1.700",Jardim Andaraí,02168-150,NÃO,EM_OPERACAO
+Mirandópolis,Vila Mariana,"Avenida Senador Casemiro da Rocha, nº 1220, esquina com Avenida José Maria Whitaker",Mirandópolis,,SIM,EM_OPERACAO
+Vila Mariana,Vila Mariana,"Rua Mauricio Francisco Klabin, nº 37",Vila Mariana,04120-020,SIM,EM_OPERACAO
+Saioa,Vila Mariana,"Rua Mary Baida Salem, nº 1",Vila Firmiano Pinto,04124-210,NÃO,EM_OPERACAO
+Rubem Berta,Vila Mariana,"Avenida Rubem Berta, nº 1100 (baixo do Viaduto Onze de Junho)",Indianópolis,04014-010,NÃO,EM_OPERACAO
+Anhaia Mello,Vila Prudente,"Rua da Prece, nº 296",Vila Prudente,03156-210,SIM,EM_OPERACAO
+São Lucas,Vila Prudente,"Rua Florêncio Sanches, nº 307",Parque Residencial Oratório,03266-120,SIM,EM_OPERACAO
+Vila Industrial,Vila Prudente,"Rua Lisa Ansorge, altura do nº 645",Jardim Guairaca,03244-060,SIM,EM_OPERACAO

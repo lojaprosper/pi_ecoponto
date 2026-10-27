@@ -1,8 +1,0 @@
-# Segredos: nunca enviar ao GitHub
-.env
-sql/02_criar_usuario_leitura.sql
-# Dados gerados localmente (histórico e vetores)
-dados_locais/
-__pycache__/
-*.pyc
-.venv/

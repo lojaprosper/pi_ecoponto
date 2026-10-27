@@ -1,0 +1,13 @@
+Atividade : Testes, validação e adaptação do chat com IA ao projeto integrador
+
+Link no Git : https://github.com/lojaprosper/pi_ecoponto
+
+Grupo formado por :
+
+Claudine Costa
+
+Heitor
+
+Marcelo
+
+João Paulo
